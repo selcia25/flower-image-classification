@@ -21,5 +21,5 @@ This project utilizes Convolutional Neural Networks (CNN) for the classification
     
 ## Getting Started
 1. Clone the repository:
-   git clone https://github.com/selcia25/flower-image-classification.git
-   cd flower-image-classification
+  - git clone https://github.com/selcia25/flower-image-classification.git
+  - cd flower-image-classification
